@@ -1,0 +1,37 @@
+_repo: The-Will-of-Samuel-Appleton-with-Remarks-by-One-of-the-Executors_33362
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Bowditch, N. I. (Nathaniel Ingersoll)
+    alias: Bowditch, Nathaniel Ingersoll
+    birthdate: 1805
+    deathdate: 1861
+    gutenberg_agent_id: '42936'
+    url: http://www.gutenberg.org/2009/agents/42936
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Appleton, Samuel
+    birthdate: 1766
+    deathdate: 1853
+    gutenberg_agent_id: '36365'
+    url: http://www.gutenberg.org/2009/agents/36365
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Appleton
+description: ''
+gutenberg_issued: '2010-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Wills -- Massachusetts'
+- !lcsh 'Appleton, Samuel, 1766-1853 -- Will'
+- !lcsh 'Appleton family'
+title: The Will of Samuel Appleton, with Remarks by One of the Executors
+url: http://www.gutenberg.org/ebooks/33362
